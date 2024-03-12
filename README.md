@@ -26,3 +26,8 @@ Kemudian silakan jawab pertanyaan yang ada dengan jawaban berikut:
 * Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh pilih AirBnB).
 * What format do you want your config file to be in? -> JSON.
 * Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
+
+4. Instalasi module nanoid untuk mendapatkan string unik
+```
+npm install nanoid@3
+```

@@ -31,3 +31,5 @@ Kemudian silakan jawab pertanyaan yang ada dengan jawaban berikut:
 ```
 npm install nanoid@3
 ```
+
+5. Diakses melalui [Link text Here](http://notesapp-v1.dicodingacademy.com/)
